@@ -16,14 +16,14 @@ c:\xampp\htdocs\projects\garbage\web
 localhost/projects/garbage/web/
 
 Login Details
-For Admin 
+1) For Admin 
 admin@gmail.com
 test
 
-Driver
+2) Driver
 driver@gmail.com
 test
 
-User
+3) User
 user@gmail.com
 test
