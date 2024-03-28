@@ -1,29 +1,31 @@
 # Garbage-Management-System
 
-For Project run the path in browser
-
+1. For Project run the path in browser
 localhost/projects/garbage/web/index.html
 
-1. Place the coding in below path 
+2. Place the coding in below path 
 c:\xampp\htdocs\projects\garbage\web
 
-2. Opent  localhost/phpmyadmin
+3. Opent  localhost/phpmyadmin
    Crete DB - garbage
    
-3. Import garbage.sql 
+4. Import garbage.sql 
 
+## **Login Details**
+The application expects authentication credentials to be provided via environment variables. Please set the following variables in your environment:
 
-localhost/projects/garbage/web/
+### For admin:
 
-Login Details
-1) For Admin 
-admin@gmail.com
-test
+- **Username:** admin@gmail.com
+- **Password:** test
 
-2) Driver
-driver@gmail.com
-test
+### For Driver:
 
-3) User
-user@gmail.com
-test
+- **Username:** driver@gmail.com
+- **Password:** test
+
+### For User:
+
+- **Username:** user@gmail.com
+- **Password:** test
+
